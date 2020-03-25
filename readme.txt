@@ -1,1 +1,3 @@
-this is my learn git txt!
+this is my learn txt
+
+my git test *
